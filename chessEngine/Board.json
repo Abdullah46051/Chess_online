@@ -1,0 +1,108 @@
+{
+  "pieces": [
+    {
+      "type": "King",
+      "color": true,
+      "piece": [
+        { "x": 4, "y": 7 }
+      ]
+    },
+    {
+      "type": "King",
+      "color": false,
+      "piece": [
+        { "x": 4, "y": 0 }
+      ]
+    },
+    {
+      "type": "Queen",
+      "color": true,
+      "piece": [
+        { "x": 3, "y": 7 }
+      ]
+    },
+    {
+      "type": "Queen",
+      "color": false,
+      "piece": [
+        { "x": 3, "y": 0 }
+      ]
+    },
+    {
+      "type": "Bishop",
+      "color": true,
+      "piece": [
+        { "x": 2, "y": 7 },
+        { "x": 5, "y": 7 }
+      ]
+    },
+    {
+      "type": "Bishop",
+      "color": false,
+      "piece": [
+        { "x": 2, "y": 0 },
+        { "x": 5, "y": 0 }
+      ]
+    },
+    {
+      "type": "Knight",
+      "color": true,
+      "piece": [
+        { "x": 1, "y": 7 },
+        { "x": 6, "y": 7 }
+      ]
+    },
+    {
+      "type": "Knight",
+      "color": false,
+      "piece": [
+        { "x": 1, "y": 0 },
+        { "x": 6, "y": 0 }
+      ]
+    },
+    {
+      "type": "Rook",
+      "color": true,
+      "piece": [
+        { "x": 0, "y": 7 },
+        { "x": 7, "y": 7 }
+      ]
+    },
+    {
+      "type": "Rook",
+      "color": false,
+      "piece": [
+        { "x": 0, "y": 0 },
+        { "x": 7, "y": 0 }
+      ]
+    },
+    {
+      "type": "Pawn",
+      "color": true,
+      "piece": [
+        { "x": 0, "y": 6 },
+        { "x": 1, "y": 6 },
+        { "x": 2, "y": 6 },
+        { "x": 3, "y": 6 },
+        { "x": 4, "y": 6 },
+        { "x": 5, "y": 6 },
+        { "x": 6, "y": 6 },
+        { "x": 7, "y": 6 }
+      ]
+    },
+    {
+      "type": "Pawn",
+      "color": false,
+      "piece": [
+        { "x": 0, "y": 1 },
+        { "x": 1, "y": 1 },
+        { "x": 2, "y": 1 },
+        { "x": 3, "y": 1 },
+        { "x": 4, "y": 1 },
+        { "x": 5, "y": 1 },
+        { "x": 6, "y": 1 },
+        { "x": 7, "y": 1 }
+      ]
+    }
+  ]
+}
